@@ -35,21 +35,21 @@ An interactive and investor-focused dashboard built with **Streamlit** to analyz
 
 ---
 
-![Manufacturer Deep-Dive](screenshots/ss3.png)
+![Manufacturer Deep-Dive](Screenshots/ss3.png)
 
 ---
 
-![Dark Mode UI](screenshots/ss4.png)
----
-
----
-
-![Dark Mode UI](screenshots/ss5.png)
+![Dark Mode UI](Screenshots/ss4.png)
 ---
 
 ---
 
-![Dark Mode UI](screenshots/ss6.png)
+![Dark Mode UI](Screenshots/ss5.png)
+---
+
+---
+
+![Dark Mode UI](Screenshots/ss6.png)
 ---
 
 ## 🛠 Setup Instructions
